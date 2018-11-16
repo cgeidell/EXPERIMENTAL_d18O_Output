@@ -1,0 +1,10 @@
+Polar-gridded d18O with 12.5 km resolution using the linear relationship between d18O and Salinity. 
+Salinity data used are satellite-derived sea surface salinity (SSS) from Aquarius-SAC/D. 
+d18O data used are from the GISS Global seawater Oxygen-18 database: https://data.giss.nasa.gov/o18data/
+SSS dataset gridded in the polar stereographic projection are available here: 
+https://neptune.gsfc.nasa.gov/csb/index.php?section=482 
+Global gridded d18O are produced with .25 deg resolution.
+
+Also included here are the IDL codes used to create the gif files from the attached dat.gz files and the sector maps used. 
+Please contact <ceidel2@uic.edu> for any questions. 
+Thank you. 
